@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # begem.sh - Version 13
-# Conversation Link: https://grok.com/chat/65ca4880-c4e5-4826-8f74-e71605f96653
 # Core Features:
 # - Interacts with the Gemini API to generate conversational responses.
 # - Supports prefix files (e.g., text-prefix.txt, json-prefix.txt) to customize prompts for regular queries.
